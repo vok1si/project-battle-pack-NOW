@@ -1,0 +1,4 @@
+*.jar
+server.js
+package.json
+supabase-fix-existing-tables.sql
