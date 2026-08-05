@@ -1,6 +1,6 @@
 {
     "projectName":  "PROJECT BATTLE",
-    "version":  "0.2.11",
+    "version":  "0.2.12",
     "protectedDirs":  [
                           "mods",
                           "config"
@@ -189,10 +189,10 @@
                       "required":  true
                   },
                   {
-                      "path":  "mods/projectbattle-compass-1.0.6.jar",
-                      "url":  "https://github.com/vok1si/project-battle-pack-NOW/releases/download/v0.1.0/projectbattle-compass-1.0.6.jar",
-                      "sha256":  "e0e08a7c6d635554ca86187456bbeee091d378b65eef5c035607f086ed6c9ca7",
-                      "size":  6164,
+                      "path":  "mods/projectbattle-compass-1.0.7.jar",
+                      "url":  "https://github.com/vok1si/project-battle-pack-NOW/releases/download/v0.1.0/projectbattle-compass-1.0.7.jar",
+                      "sha256":  "854fdff82796b7d1499bacb59a76705e41a1dffa4633ecf2a64ea448ca7894ef",
+                      "size":  6364,
                       "required":  true
                   },
                   {
