@@ -1,6 +1,6 @@
 {
   "projectName": "PROJECT BATTLE",
-  "version": "0.2.17",
+  "version": "0.2.18",
   "protectedDirs": [
     "config"
   ],
@@ -398,10 +398,10 @@
       "required": true
     },
     {
-      "path": "mods/libercraft_hitbox_guard-1.0.0.jar",
-      "url": "https://github.com/vok1si/project-battle-pack-NOW/releases/download/v0.1.0/libercraft_hitbox_guard-1.0.0.jar",
-      "sha256": "7b34795b9d0737f1283d64bfdbcd14ea4ccc50829a613c7eaea8c64a65a7620c",
-      "size": 5581,
+      "path": "mods/libercraft_hitbox_guard-1.0.1.jar",
+      "url": "https://github.com/vok1si/project-battle-pack-NOW/releases/download/v0.1.0/libercraft_hitbox_guard-1.0.1.jar",
+      "sha256": "192058c2a63012c56827a31aa322f252141daf831420ede18a9a5873fed50192",
+      "size": 5782,
       "required": true
     }
   ]
