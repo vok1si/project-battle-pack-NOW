@@ -1,6 +1,6 @@
 {
   "projectName": "PROJECT BATTLE",
-  "version": "0.2.18",
+  "version": "0.2.19",
   "protectedDirs": [
     "config"
   ],
@@ -402,6 +402,13 @@
       "url": "https://github.com/vok1si/project-battle-pack-NOW/releases/download/v0.1.0/libercraft_hitbox_guard-1.0.1.jar",
       "sha256": "192058c2a63012c56827a31aa322f252141daf831420ede18a9a5873fed50192",
       "size": 5782,
+      "required": true
+    },
+    {
+      "path": "mods/randomtree-1.0.0.jar",
+      "url": "https://github.com/vok1si/project-battle-pack-NOW/releases/download/v0.1.0/randomtree-1.0.0.jar",
+      "sha256": "590461928f36f01905cb32022270be2a88f33f7ff177208de5c08bf6ef6890c8",
+      "size": 18466,
       "required": true
     }
   ]
