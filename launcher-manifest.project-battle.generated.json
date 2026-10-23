@@ -1,6 +1,6 @@
 {
   "projectName": "PROJECT BATTLE",
-  "version": "0.2.19",
+  "version": "0.2.20",
   "protectedDirs": [
     "config"
   ],
@@ -406,9 +406,9 @@
     },
     {
       "path": "mods/randomtree-1.0.0.jar",
-      "url": "https://github.com/vok1si/project-battle-pack-NOW/releases/download/v0.1.0/randomtree-1.0.0.jar",
-      "sha256": "590461928f36f01905cb32022270be2a88f33f7ff177208de5c08bf6ef6890c8",
-      "size": 18466,
+      "url": "https://github.com/vok1si/project-battle-pack-NOW/releases/download/v0.1.0/randomtree-1.0.0-mc1.20.1-fixed.jar",
+      "sha256": "821202301e6719a5a30cc0b3c4e26eede5923ee40629c480ac624cf75bb4e500",
+      "size": 18656,
       "required": true
     }
   ]
