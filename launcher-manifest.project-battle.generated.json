@@ -1,6 +1,6 @@
 {
   "projectName": "PROJECT BATTLE",
-  "version": "0.2.20",
+  "version": "0.2.21",
   "protectedDirs": [
     "config"
   ],
@@ -409,6 +409,13 @@
       "url": "https://github.com/vok1si/project-battle-pack-NOW/releases/download/v0.1.0/randomtree-1.0.0-mc1.20.1-fixed.jar",
       "sha256": "821202301e6719a5a30cc0b3c4e26eede5923ee40629c480ac624cf75bb4e500",
       "size": 18656,
+      "required": true
+    },
+    {
+      "path": "mods/projectbattle-lean-0.1.0-beta.1.jar",
+      "url": "https://github.com/vok1si/project-battle-pack-NOW/releases/download/v0.1.0/projectbattle-lean-0.1.0-beta.1.jar",
+      "sha256": "82f166414abd3f62fc81960d59ec1bda833ee23a09be30ca93ad8081336ce74d",
+      "size": 37130,
       "required": true
     }
   ]
