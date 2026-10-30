@@ -1,6 +1,6 @@
 {
   "projectName": "PROJECT BATTLE",
-  "version": "0.2.21",
+  "version": "0.2.22",
   "protectedDirs": [
     "config"
   ],
@@ -237,13 +237,6 @@
       "required": true
     },
     {
-      "path": "mods/tacz_realisticblood-1.0.8-forge-1.20.1.jar",
-      "url": "https://github.com/vok1su/project-battle-pack-NOW/releases/download/v0.1.0/tacz_realisticblood-1.0.8-forge-1.20.1.jar",
-      "sha256": "8ca04d669875b79f812f032b25827ad12526c858d9fed8ac3cdc32abd9e632b3",
-      "size": 46562565,
-      "required": true
-    },
-    {
       "path": "mods/tacz_turrets-1.1.2-all.jar",
       "url": "https://github.com/vok1su/project-battle-pack-NOW/releases/download/v0.1.0/tacz_turrets-1.1.2-all.jar",
       "sha256": "c07d0bb10c91c2f9bbbc367bd6836115678dbadf4a6c4b5b70125c091cd553cd",
@@ -417,6 +410,13 @@
       "sha256": "82f166414abd3f62fc81960d59ec1bda833ee23a09be30ca93ad8081336ce74d",
       "size": 37130,
       "required": true
+    }
+  ],
+  "retiredFiles": [
+    {
+      "path": "mods/tacz_realisticblood-1.0.8-forge-1.20.1.jar",
+      "sha256": "8ca04d669875b79f812f032b25827ad12526c858d9fed8ac3cdc32abd9e632b3",
+      "size": 46562565
     }
   ]
 }
