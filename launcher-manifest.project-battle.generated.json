@@ -1,6 +1,6 @@
 {
   "projectName": "PROJECT BATTLE",
-  "version": "0.2.23",
+  "version": "0.2.24",
   "protectedDirs": [
     "config"
   ],
@@ -413,9 +413,9 @@
     },
     {
       "path": "mods/projectbattle-inventory-0.1.0.jar",
-      "url": "https://github.com/vok1si/project-battle-pack-NOW/releases/download/v0.1.0/projectbattle-inventory-0.1.0.jar",
-      "sha256": "b7c11fb6665577e99d685017693d8860a8b22c239db53785030aec81e421e599",
-      "size": 2505231,
+      "url": "https://github.com/vok1si/project-battle-pack-NOW/releases/download/v0.1.0/projectbattle-inventory-0.1.0-5cc1e341.jar",
+      "sha256": "5cc1e341f6962e13606f1282daf6d4c45e3feb54eeff6313d112c876f25d1635",
+      "size": 2505640,
       "required": true
     }
   ],
