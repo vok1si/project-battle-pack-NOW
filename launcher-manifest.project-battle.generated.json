@@ -1,6 +1,6 @@
 {
   "projectName": "PROJECT BATTLE",
-  "version": "0.2.24",
+  "version": "0.2.25",
   "protectedDirs": [
     "config"
   ],
@@ -412,10 +412,17 @@
       "required": true
     },
     {
-      "path": "mods/projectbattle-inventory-0.1.0.jar",
-      "url": "https://github.com/vok1si/project-battle-pack-NOW/releases/download/v0.1.0/projectbattle-inventory-0.1.0-5cc1e341.jar",
-      "sha256": "5cc1e341f6962e13606f1282daf6d4c45e3feb54eeff6313d112c876f25d1635",
-      "size": 2505640,
+      "path": "mods/projectbattle-inertia-0.1.0-beta.1.jar",
+      "url": "https://github.com/vok1si/project-battle-pack-NOW/releases/download/v0.2.25/projectbattle-inertia-0.1.0-beta.1.jar",
+      "sha256": "a7fc4dd510d0680956f87c53b047f6bc4ffcd838858b6e3c3d9b67b0eae8dd1b",
+      "size": 18119,
+      "required": true
+    },
+    {
+      "path": "mods/projectbattle-stances-0.1.0-beta.11.jar",
+      "url": "https://github.com/vok1si/project-battle-pack-NOW/releases/download/v0.2.25/projectbattle-stances-0.1.0-beta.11.jar",
+      "sha256": "1d14c66bddbb405fccea2899887548f76086eece48d1783b035b27ab84a4004b",
+      "size": 78115,
       "required": true
     }
   ],
@@ -424,6 +431,11 @@
       "path": "mods/tacz_realisticblood-1.0.8-forge-1.20.1.jar",
       "sha256": "8ca04d669875b79f812f032b25827ad12526c858d9fed8ac3cdc32abd9e632b3",
       "size": 46562565
+    },
+    {
+      "path": "mods/projectbattle-inventory-0.1.0.jar",
+      "sha256": "5cc1e341f6962e13606f1282daf6d4c45e3feb54eeff6313d112c876f25d1635",
+      "size": 2505640
     }
   ]
 }
