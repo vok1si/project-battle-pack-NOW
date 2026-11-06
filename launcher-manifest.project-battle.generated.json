@@ -1,6 +1,6 @@
 {
   "projectName": "PROJECT BATTLE",
-  "version": "0.2.26.1",
+  "version": "0.2.27",
   "protectedDirs": [
     "config"
   ],
@@ -423,6 +423,13 @@
       "url": "https://github.com/vok1si/project-battle-pack-NOW/releases/download/v0.2.26/projectbattle-stances-0.1.0-beta.11.jar",
       "sha256": "1d14c66bddbb405fccea2899887548f76086eece48d1783b035b27ab84a4004b",
       "size": 78115,
+      "required": true
+    },
+    {
+      "path": "mods/projectbattle-ranks-1.0.1.jar",
+      "url": "https://github.com/vok1si/project-battle-pack-NOW/releases/download/v0.2.27/projectbattle-ranks-1.0.1.jar",
+      "sha256": "f6e737b6ded4b97a315c3b02ceecd332c93a0e27fe599afb3c0954fed813ee26",
+      "size": 811293,
       "required": true
     }
   ],
