@@ -1,6 +1,6 @@
 {
   "projectName": "PROJECT BATTLE",
-  "version": "0.2.28",
+  "version": "0.2.29",
   "protectedDirs": [
     "config"
   ],
@@ -244,10 +244,10 @@
       "required": true
     },
     {
-      "path": "mods/tacz-1.20.1-1.1.8-hotfix.jar",
-      "url": "https://github.com/vok1si/project-battle-pack-NOW/releases/download/v0.1.0/tacz-1.20.1-1.1.8-hotfix.jar",
-      "sha256": "9ed8ada1283ed7a793a70cc1b51c4a340f367ce84707e1a7b8cf21ee3d288d77",
-      "size": 57465167,
+      "path": "mods/tacz-forge-1.20.1-1.2.0.jar",
+      "url": "https://github.com/vok1si/project-battle-pack-NOW/releases/download/v0.2.29/tacz-forge-1.20.1-1.2.0.jar",
+      "sha256": "1c2f2915f76908d396a0da577665c977564c279ccb89d459a00a29225aa45a92",
+      "size": 69001578,
       "required": true
     },
     {
@@ -426,14 +426,24 @@
       "required": true
     },
     {
-      "path": "mods/projectbattle-ranks-1.1.0.jar",
-      "url": "https://github.com/vok1si/project-battle-pack-NOW/releases/download/v0.2.28/projectbattle-ranks-1.1.0.jar",
-      "sha256": "c7ea72082a059e377ff89227732973d7b61381cb07ca32f7324c49f20c2708a2",
+      "path": "mods/projectbattle-ranks-1.2.0.jar",
+      "url": "https://github.com/vok1si/project-battle-pack-NOW/releases/download/v0.2.29/projectbattle-ranks-1.2.0.jar",
+      "sha256": "3495ccb1843bbe6e9458c8ee9af2e8862d830ae70068d82ca730ff7dc39f6151",
       "size": 816782,
       "required": true
     }
   ],
   "retiredFiles": [
+    {
+      "path": "mods/tacz-1.20.1-1.1.8-hotfix.jar",
+      "sha256": "9ed8ada1283ed7a793a70cc1b51c4a340f367ce84707e1a7b8cf21ee3d288d77",
+      "size": 57465167
+    },
+    {
+      "path": "mods/projectbattle-ranks-1.1.0.jar",
+      "sha256": "c7ea72082a059e377ff89227732973d7b61381cb07ca32f7324c49f20c2708a2",
+      "size": 816782
+    },
     {
       "path": "mods/tacz_realisticblood-1.0.8-forge-1.20.1.jar",
       "sha256": "8ca04d669875b79f812f032b25827ad12526c858d9fed8ac3cdc32abd9e632b3",
