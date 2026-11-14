@@ -1,6 +1,6 @@
 {
   "projectName": "PROJECT BATTLE",
-  "version": "0.2.30",
+  "version": "0.2.31",
   "protectedDirs": [
     "config"
   ],
@@ -430,6 +430,13 @@
       "url": "https://github.com/vok1si/project-battle-pack-NOW/releases/download/v0.2.28/projectbattle-ranks-1.1.0.jar",
       "sha256": "c7ea72082a059e377ff89227732973d7b61381cb07ca32f7324c49f20c2708a2",
       "size": 816782,
+      "required": true
+    },
+    {
+      "path": "mods/projectbattle-combat-report-1.0.0.jar",
+      "url": "https://github.com/vok1si/project-battle-pack-NOW/releases/download/v0.2.31/projectbattle-combat-report-1.0.0.jar",
+      "sha256": "42e170f0688c9ca24890b32d232bc75f1f0f65423cfcc8744cf549234c5bf6c3",
+      "size": 40552,
       "required": true
     }
   ],
