@@ -1,6 +1,6 @@
 {
   "projectName": "PROJECT BATTLE",
-  "version": "0.2.31",
+  "version": "0.2.32",
   "protectedDirs": [
     "config"
   ],
@@ -437,6 +437,13 @@
       "url": "https://github.com/vok1si/project-battle-pack-NOW/releases/download/v0.2.31/projectbattle-combat-report-1.0.0.jar",
       "sha256": "42e170f0688c9ca24890b32d232bc75f1f0f65423cfcc8744cf549234c5bf6c3",
       "size": 40552,
+      "required": true
+    },
+    {
+      "path": "mods/projectbattle-watch-1.1.0-beta.2.jar",
+      "url": "https://github.com/vok1si/project-battle-pack-NOW/releases/download/v0.2.32/projectbattle-watch-1.1.0-beta.2.jar",
+      "sha256": "c0c40b171ea0de8089309444ac1048077818d935d48d058392c2ad63d95bd0e2",
+      "size": 83812,
       "required": true
     }
   ],
